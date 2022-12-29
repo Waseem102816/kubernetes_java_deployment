@@ -15,7 +15,7 @@ spec:
     name: http
 
 ---
-apiVersion: apps/v1
+apiVersion: apps/v1  //hi
 kind: Deployment
 metadata:
   name: productcatalogue
