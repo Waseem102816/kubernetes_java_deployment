@@ -8,7 +8,7 @@ metadata:
 spec:
   type: NodePort
   selector:
-    app: productcatalogue
+    app: productcatalogue //hello
   ports:
   - protocol: TCP
     port: 8020
